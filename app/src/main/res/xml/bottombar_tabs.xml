@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tabs>
+    <tab
+        id="@+id/tab_today"
+        icon="@drawable/ic_today_black_24dp"
+        title="今日"
+        barColorWhenSelected="#5D4037"/>
+    <tab
+        id="@+id/tab_catagory"
+        icon="@drawable/ic_catagory_black_24dp"
+        title="分类"
+        barColorWhenSelected="#5d1037"/>
+    <tab
+        id="@+id/tab_favorite"
+        icon="@drawable/ic_favorite_black_24dp"
+        title="收藏"
+        barColorWhenSelected="#5D9037"/>
+    <tab
+        id="@+id/tab_fuli"
+        icon="@drawable/ic_spa_black_24dp"
+        title="福利"
+        barColorWhenSelected="#991019"/>
+</tabs>
